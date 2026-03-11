@@ -1,5 +1,4 @@
-# 👋Olá, eu sou o Gustavo!
-🇧🇷 Brazil 🇧🇷
+# 👋Olá, eu sou o Gustavo! 🇧🇷 
 
 ***🎓 Técnico em Informática & Graduando em Análise e Desenvolvimento de Sistemas.***
 
