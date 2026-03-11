@@ -10,8 +10,6 @@ Atualmente, meu foco total é o ecossistema **Full Stack**. Meu repositório é 
 
 Estou sempre codando, errando e aprendendo algo novo todos os dias.
 
-<br>
-
 ## 🛠️ Tecnologias Utilizadas
 
 Tecnologias gerais que utilizo no dia a dia nos meus projetos e trabalhos de estudo.
@@ -34,8 +32,6 @@ Tecnologias gerais que utilizo no dia a dia nos meus projetos e trabalhos de est
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](  https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-<br>
 
 ## 🌐 Conecte-se comigo!
 
