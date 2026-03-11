@@ -1,7 +1,7 @@
 # 👋Olá, eu sou o Gustavo!
-🇧🇷 Brazil
+🇧🇷 Brazil 🇧🇷
 
-***🎓 Técnico em Informática & Graduando em ADS.***
+***🎓 Técnico em Informática & Graduando em Análise e Desenvolvimento de Sistemas.***
 
 ***👨‍💻 Evoluindo para me tornar um Desenvolvedor Full Stack.***
 
