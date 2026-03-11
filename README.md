@@ -15,6 +15,8 @@ Estou sempre codando, errando e aprendendo algo novo todos os dias.
 
 ## 🛠️ Tecnologias Utilizadas
 
+Tecnologias gerais que utilizo no dia a dia nos meus projetos e trabalhos de estudo.
+
 ### 🎨 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,6 +39,8 @@ Estou sempre codando, errando e aprendendo algo novo todos os dias.
 <br>
 
 ## 🌐 Conecte-se comigo!
+
+Conecte-se comigo profissionalmente no Linkedin!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gustavo-silva-23575638b/">
