@@ -1,4 +1,4 @@
-# 👋Olá, eu sou o Gustavo! 🇧🇷 
+<img width="751" height="199" alt="image" src="https://github.com/user-attachments/assets/b356dead-c1bf-4efa-bb6c-dd2c1776ccaa" /># 👋Olá, eu sou o Gustavo! 🇧🇷 
 
 ***🎓 Técnico em Informática & Graduando em Análise e Desenvolvimento de Sistemas.***
 
@@ -6,29 +6,38 @@
 
 Tenho **18 anos** e sou um entusiasta da tecnologia, vejo a programação como uma ferramenta para resolver problemas reais. Meu dia a dia envolve conciliar os **estudos acadêmicos** com o **desenvolvimento de projetos pessoais**, onde coloco em prática tecnologias modernas para criar aplicações completas e escaláveis. 🤓
 
-Atualmente, meu foco total é o ecossistema **Full Stack**. Meu repositório é o reflexo da minha jornada: aqui você encontrará projetos que vão de desafios lógicos a aplicações completas. 
-
 Estou sempre codando, errando e aprendendo algo novo todos os dias.
 
 ## 🛠️ Tecnologias Utilizadas
 
 Tecnologias gerais que utilizo no dia a dia nos meus projetos e trabalhos de estudo.
 
-### 🎨 Frontend
+### 🎨 FRONTEND
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 📶 Backend
+### 📶 BACKEND
 
 ![Node.js](https://img.shields.io/badge/Node.js-334933?style=for-the-badge&logo=nodedotjs)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🎲 BANCO DE DADOS
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 ![MySQL](https://img.shields.io/badge/MySQL-327A1?style=for-the-badge&logo=mysql)
 
-### 💾 Versionamento
+### ⚙️ IDE
+
+[![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)](#)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
+
+### 💾 VERSIONAMENTO
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](  https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
