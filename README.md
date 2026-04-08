@@ -4,9 +4,9 @@
 
 ***👨‍💻 Evoluindo para me tornar um Desenvolvedor Full Stack.***
 
-Tenho **18 anos** e sou um entusiasta da tecnologia, vejo a programação como uma ferramenta para resolver problemas reais. Meu dia a dia envolve conciliar os **estudos acadêmicos** com o **desenvolvimento de projetos pessoais**, onde coloco em prática tecnologias modernas para criar aplicações completas e escaláveis. 🤓
+Tenho **18 anos** e sou um entusiasta da tecnologia, vejo a programação como uma ferramenta para resolver problemas reais. Aqui, você tem a oportunidade de conhecer meus projetos de estudo e de trabalho!
 
-Estou sempre codando, errando e aprendendo algo novo todos os dias.
+Estou sempre codando, errando e aprendendo algo novo todos os dias. 🤓
 
 ## 🛠️ Tecnologias Utilizadas
 
