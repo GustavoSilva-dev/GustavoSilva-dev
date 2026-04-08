@@ -1,4 +1,4 @@
-<img width="751" height="199" alt="image" src="https://github.com/user-attachments/assets/b356dead-c1bf-4efa-bb6c-dd2c1776ccaa" /># 👋Olá, eu sou o Gustavo! 🇧🇷 
+# 👋Olá, eu sou o Gustavo! 🇧🇷 
 
 ***🎓 Técnico em Informática & Graduando em Análise e Desenvolvimento de Sistemas.***
 
