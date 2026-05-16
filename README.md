@@ -11,7 +11,6 @@ Vejo a programação como uma ferramenta para resolver problemas reais. Aqui voc
 ## 💻 Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -51,9 +50,9 @@ Plataforma Full Stack de gamificação de tarefas, incentivando crianças a real
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoSilva-dev&show_icons=true&theme=radical&locale=pt-br&cache_seconds=86400)](https://github.com/GustavoSilva-dev)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoSilva-dev&show_icons=true&theme=radical&locale=pt-br&cache_seconds=86400)]
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSilva-dev&layout=compact&theme=radical&locale=pt-br&cache_seconds=86400)](https://github.com/GustavoSilva-dev)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSilva-dev&layout=compact&theme=radical&locale=pt-br&cache_seconds=86400)]
 
 </div>
 
