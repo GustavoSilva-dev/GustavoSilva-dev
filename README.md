@@ -35,26 +35,24 @@ Vejo a programação como uma ferramenta para resolver problemas reais. Aqui voc
 ## 🚀 Projetos em Destaque
 
 ### 🛣️ [Road Help](https://github.com/GustavoSilva-dev/RoadHelp-Project)
-Plataforma de GPS dedicada para veículos de carga com rastreamento e gerenciamento de rotas.
+Plataforma de GPS dedicada para veículos de carga com rastreamento e gerenciamento de rotas.  
+**Stack:** React • Node.js • Express.js • MongoDB • Prisma ORM • TomTom Maps API • OpenStreetMap
 
 ### 🏥 [API REST - Clínica Médica](https://github.com/GustavoSilva-dev/API-REST-Clinica-Medica-SpringBoot)
-API robusta desenvolvida com Spring Boot para cadastro de médicos e pacientes, com controle de acesso robusto e geração otimizada de tokens.
+API robusta desenvolvida com Spring Boot para cadastro de médicos e pacientes, com controle de acesso robusto e geração otimizada de tokens.  
+**Stack:** Java 21 • Spring Boot • Spring Security • Hibernate JPA • JWT • Postman API
 
 ### 🎮 [TaskCoin](https://github.com/Marcosszxleonardo/TaskCoin) *(Em Andamento)*
 Plataforma Full Stack de gamificação de tarefas, incentivando crianças a realizar atividades do cotidiano através de sistema de recompensas.  
-**Stack:** React • Spring Boot • PostgreSQL • Supabase
+**Stack:** React • Spring Boot • PostgreSQL • Supabase • Insomnia API
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoSilva-dev&show_icons=true&theme=radical&locale=pt-br)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoSilva-dev&show_icons=true&theme=radical&locale=pt-br&cache_seconds=86400)]
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSilva-dev&layout=compact&theme=radical&locale=pt-br&cache_seconds=86400)]
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSilva-dev&layout=compact&theme=radical&locale=pt-br)
 
 ---
 
