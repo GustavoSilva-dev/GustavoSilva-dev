@@ -49,9 +49,13 @@ Plataforma Full Stack de gamificação de tarefas, incentivando crianças a real
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoSilva-dev&show_icons=true&theme=radical&locale=pt-br)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSilva-dev&layout=compact&theme=radical&locale=pt-br)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoSilva-dev&show_icons=true&theme=radical&locale=pt-br&cache_seconds=86400)](https://github.com/GustavoSilva-dev)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSilva-dev&layout=compact&theme=radical&locale=pt-br&cache_seconds=86400)](https://github.com/GustavoSilva-dev)
+
+</div>
 
 ---
 
