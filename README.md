@@ -8,7 +8,7 @@ Vejo a programação como uma ferramenta para resolver problemas reais. Aqui voc
 
 ---
 
-## 💻 Tecnologias
+## 💻 Stack Técnica
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
