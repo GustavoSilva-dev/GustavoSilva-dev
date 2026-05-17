@@ -48,13 +48,9 @@ Plataforma Full Stack de gamificação de tarefas, incentivando crianças a real
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=GustavoSilva-dev&show_icons=true&theme=radical&locale=pt-br)
+## 📊 Linguagens Que Mais Uso
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=GustavoSilva-dev&layout=compact&theme=radical&locale=pt-br)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoSilva-dev&theme=radical)
 
 ---
 
