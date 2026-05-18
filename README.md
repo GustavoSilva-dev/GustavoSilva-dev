@@ -2,9 +2,9 @@
 
 ***🎓 Técnico em Informática & Graduando em Análise e Desenvolvimento de Sistemas***
 
-**Full Stack Developer** | 18 anos | Apaixonado por criar soluções web robustas e escaláveis.
+**Full Stack Developer** | 18 anos | Apaixonado por criar soluções robustas e escaláveis.
 
-Vejo a programação como uma ferramenta para resolver problemas reais. Aqui você encontrará meus projetos de estudo e contribuições práticas no desenvolvimento web.
+Vejo a programação como uma ferramenta para resolver problemas reais. Aqui você encontrará meus projetos de estudo e contribuições práticas no desenvolvimento.
 
 ---
 
