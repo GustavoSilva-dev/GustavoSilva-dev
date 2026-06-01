@@ -38,8 +38,8 @@ Plataforma de GPS dedicada para veículos de carga com rastreamento e gerenciame
 API robusta desenvolvida com Spring Boot para cadastro de médicos e pacientes, com controle de acesso robusto e geração otimizada de tokens.  
 **Stack:** Java 21 • Spring Boot • Spring Security • Hibernate JPA • JWT • Postman API
 
-### 🎮 [TaskCoin](https://github.com/Marcosszxleonardo/TaskCoin) *(Em Andamento)*
-Plataforma Full Stack de gamificação de tarefas, incentivando crianças a realizar atividades do cotidiano através de sistema de recompensas.  
+### 🎮 [TaskCoin](https://github.com/Marcosszxleonardo/TaskCoin)
+Plataforma web de gamificação de tarefas, incentivando crianças a realizar atividades do cotidiano através de sistema de recompensas e níveis.  
 **Stack:** React • Spring Boot • PostgreSQL • Supabase • Insomnia API
 
 ---
