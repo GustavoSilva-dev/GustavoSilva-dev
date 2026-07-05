@@ -39,7 +39,7 @@ MVP de uma Plataforma de GPS dedicada para veículos de carga com rastreamento e
 API robusta desenvolvida com Spring Boot para cadastro de médicos e pacientes com gerenciamento e registro de agendamentos, com controle de acesso robusto, documentação e geração otimizada de tokens.  
 **Stack:** ```Java 21``` • ```Spring Boot``` • ```Spring Security``` • ```Hibernate JPA``` • ```JWT``` • ```Postman API``` • ```Flyway``` • ```Swagger```
 
-### 🎮 [TaskCoin](https://github.com/Marcosszxleonardo/TaskCoin)
+### 🎮 [TaskCoin](https://github.com/Marcosszxleonardo/TaskCoin](https://github.com/GustavoSilva-dev/TaskCoin-Project)
 Plataforma web de gamificação de tarefas, incentivando crianças a realizar atividades do cotidiano através de um sistema de recompensas, níveis e ofensiva, com controle total dos responsáveis.  
 **Stack:** ```React``` • ```Spring Boot``` • ```PostgreSQL``` • ```Supabase``` • ```Insomnia API```
 
