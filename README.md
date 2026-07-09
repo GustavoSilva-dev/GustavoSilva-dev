@@ -41,7 +41,7 @@ API robusta desenvolvida com Spring Boot para cadastro de médicos e pacientes c
 
 ### 🎮 [TaskCoin](https://github.com/GustavoSilva-dev/TaskCoin-Project)
 Plataforma web de gamificação de tarefas, incentivando crianças a realizar atividades do cotidiano através de um sistema de recompensas, níveis e ofensiva, com controle total dos responsáveis.  
-**Stack:** ```React``` • ```Spring Boot``` • ```PostgreSQL``` • ```Supabase``` • ```Insomnia API```
+**Stack:** ```React``` • ```Spring Boot``` • ```PostgreSQL``` • ```Supabase``` • ```Insomnia API``` • ```Docker``` • ```Swagger```
 
 ---
 
