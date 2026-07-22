@@ -1,4 +1,4 @@
-# 👋 Gustavo Silva - Full Stack Developer 🇧🇷 
+# Gustavo Silva - Full Stack Developer 🇧🇷 
 
 ***🎓 Técnico em Informática & Análise e Desenvolvimento de Sistemas***
 
@@ -7,6 +7,7 @@
 ## 💻 Tecnologias
 
 <div align="center">
+  <h3>Front-end</h3>
   <img alt="HTML" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img alt="CSS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img alt="JavaScript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -14,6 +15,7 @@
   <img alt="Node.js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img alt="TypeScript" height="55" width="55" src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/typescript.png">
   <br/>
+  <h3>Back-end</h3>
   <img alt="Java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img alt="Spring Boot" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img alt="Python" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -21,6 +23,7 @@
   <img alt="MySQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img alt="Supabase" height="55" width="55" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/supabase.svg">
   <br/>
+  <h3>Tools</h3>
   <img alt="Git" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img alt="GitHub" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img alt="VS Code" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
