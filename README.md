@@ -4,6 +4,17 @@
 
 ---
 
+```javascript
+const gustavo = {
+  "name": "Gustavo Silva"
+  "function": "Full Stack Developer",
+  "main-technologies": "Java, Spring Boot, React & TypeScript",
+  "working-in": "BarberSync Project"
+}
+```
+
+---
+
 ## 💻 Tecnologias
 
 <div align="center">
@@ -47,6 +58,10 @@ API RESTful robusta desenvolvida com Spring Boot para cadastro de médicos e pac
 ### 🎮 [TaskCoin](https://github.com/GustavoSilva-dev/TaskCoin-Project)
 Plataforma web de gamificação de tarefas, incentivando crianças a realizar atividades do cotidiano através de um sistema de recompensas, níveis e ofensiva, com controle total dos responsáveis.  
 **Stack:** ```React``` • ```Spring Boot``` • ```PostgreSQL``` • ```Supabase``` • ```Insomnia API``` • ```Docker``` • ```Swagger```
+
+### 💇‍♂️ [BarberSync (Em desenvolvimento)](https://github.com/GustavoSilva-dev/BarberSync-api)
+Software para gestão e agendamento de barbearias, com controle de acesso por perfil, gestão de serviços e dashboard. (Em Desenvolvimento)
+**Stack:** ```React``` • ```TypeScript``` • ```Tailwind CSS``` • ```Spring Boot``` • ```Spring Security``` • ```PostgreSQL``` • ```IA Aplicada```
 
 ---
 
