@@ -60,7 +60,7 @@ Plataforma web de gamificação de tarefas, incentivando crianças a realizar at
 **Stack:** ```React``` • ```Spring Boot``` • ```PostgreSQL``` • ```Supabase``` • ```Insomnia API``` • ```Docker``` • ```Swagger```
 
 ### 💇‍♂️ [BarberSync (Em desenvolvimento)](https://github.com/GustavoSilva-dev/BarberSync-api)
-Software para gestão e agendamento de barbearias, com controle de acesso por perfil, gestão de serviços e dashboard. (Em Desenvolvimento)
+Software para gestão e agendamento de barbearias, com controle de acesso por perfil, gestão de serviços e dashboard. (Em Desenvolvimento) <br/>
 **Stack:** ```React``` • ```TypeScript``` • ```Tailwind CSS``` • ```Spring Boot``` • ```Spring Security``` • ```PostgreSQL``` • ```IA Aplicada```
 
 ---
